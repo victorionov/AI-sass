@@ -1,5 +1,0 @@
-{
-  "build": {
-    "buildCommand": "next build"
-  }
-}
